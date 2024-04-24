@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zdekos
-- 👀 I’m interested in bioinformatics 
+- 👀 I’m interested in bioinformatics
+- 🌱 I'm currently learning R 
 
 
 <!---
